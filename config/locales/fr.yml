@@ -1,6 +1,6 @@
 # French strings go here for Rails i18n
 fr:
-  label_recurring_tasks:    "Tâche planifiée"
+  label_recurring_tasks:    "Tâches planifiées"
   label_current_issue:      "Planifier la tâche"
   label_recurrence_pattern: "Lancer la tâche tous les"
   label_add_recurring_task: "Planifier la tâche"
@@ -12,17 +12,17 @@ fr:
   label_recurs_fixed: "a une date fixe"
   label_recurs_dependent: "Lorsque la demande précédente est terminée"
   
-  label_recurring_task_issue_empty: "N/A"
-  label_recurring_task_project_empty: "N/A"
+  label_recurring_task_issue_empty: "N/C"
+  label_recurring_task_project_empty: "N/C"
   
   label_belongs_to_project: "Rattacher au projet"
   label_assigned_to: "Assigné à"
 
-  error_invalid_interval:   "Interval provided is invalid."
-  error_recurring_task_not_found: "Could not find recurring issue. "
-  error_recurring_task_could_not_remove: "Could not remove recurrence from issue. "
+  error_invalid_interval:   "L'intervalle proposé est invalide."
+  error_recurring_task_not_found: "Impossible de trouver la la tâche planifiée. "
+  error_recurring_task_could_not_remove: "Impossible de supprimer la planification de cette tâche. "
   
-  field_interval_number: "Interval number"
+  field_interval_number: "Intervalle"
   field_interval_unit: "Unité d'intervalle"
   field_fixed_schedule: "Planification fixe?"
   field_recurrence: "Planifié"
@@ -32,6 +32,6 @@ fr:
   interval_month: "mois"
   interval_year: "Année"
 
-  recurring_task_created: "Tâche planifié creer. "
-  recurring_task_saved: "Tâche planifié sauvegardé. "
-  recurring_task_removed: "Tâche planifié supprimée. "
+  recurring_task_created: "Tâche planifiée crée. "
+  recurring_task_saved: "Tâche planifiée enregistrée. "
+  recurring_task_removed: "Tâche planifiée supprimée. "
